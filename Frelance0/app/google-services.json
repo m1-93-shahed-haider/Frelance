@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999655741779",
+    "project_id": "frelane0",
+    "storage_bucket": "frelane0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999655741779:android:5f6df77043510af75f29a6",
+        "android_client_info": {
+          "package_name": "com.example.frelance0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999655741779-an8tqn5cb4bba1jblnv5rpv9m0em2ar6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frelance0",
+            "certificate_hash": "717fe49c1ea2231c2c6c816d08d21a036c5f4de1"
+          }
+        },
+        {
+          "client_id": "999655741779-3rkkq1l2ii3ilmbbis7gp5q98frn8dj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzQu-oAEVc_ZYQd5U6OX4vWAWGGG6suXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999655741779-3rkkq1l2ii3ilmbbis7gp5q98frn8dj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
